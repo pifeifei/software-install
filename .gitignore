@@ -2,3 +2,5 @@
 *.tar.gz
 *.zip
 *.rar
+/files/*
+!/files/README.md
