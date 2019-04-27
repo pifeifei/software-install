@@ -1,5 +1,4 @@
 # Prerequisites
-*.sh
-/shell/*-sh
-files/*
-
+*.tar.gz
+*.zip
+*.rar
